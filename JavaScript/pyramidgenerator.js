@@ -1,7 +1,7 @@
-let charcter="*";
-const count=8;
+let charcter="*";  // character can  be change to anything
+const count=8;  // for the total number of row 
 const rows=[];
-let inverted=true;
+let inverted=true;  // for normal pyramid change the boolean value to false
 
 function padRow(rowNumber,rowCount){
    return " ".repeat(rowCount-rowNumber)+charcter.repeat(2*rowNumber-1)+" ".repeat(rowCount-rowNumber);
