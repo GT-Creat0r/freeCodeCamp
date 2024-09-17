@@ -1,0 +1,62 @@
+h1,p{
+    text-align:center;
+    font-family:Helvetica;
+  }
+  h1{
+    font-size:40px;
+  }
+  html{
+    font-family:Helvetica;
+   }
+   body{
+     padding:20px 0px;
+   }
+  main{
+  background-color:#efefef;
+  padding:20px 0;;
+  }
+  #img-div{
+    width:95%;background-color:#ffffff;
+    padding:10px 10px 15px 10px;
+  }
+  #image{
+    display:block;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+    
+  }
+  #img-caption{
+   text-align:center;
+   justify-content:center;
+   align-items:center;
+  }
+  #tribute-info p{
+    font-weight:700;
+    padding:20px;
+    font-size:18px;
+  }
+  .bold{
+    font-weight:700;
+  }
+  #tribute-info{
+    padding:10px 10px 10px 10px;
+    text-align:center;
+  }
+  ul{
+   display:inline-block;
+  text-align:left; 
+  width:540px;
+  padding-left:5px;
+  padding-right:0;
+  }
+  ul li{
+    padding:10px;
+  }
+  #tribute-praise p{
+    width:550px;
+    text-align:center;
+    padding-left:400px;
+    padding-bottom:10px;
+  }
+  
