@@ -1,1 +1,1 @@
-This repo is created to store the projects that are done in freeCodeCamp.
+this repo is created to store the projects that are done in freeCodeCamp.
